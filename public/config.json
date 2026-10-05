@@ -1,0 +1,27 @@
+{
+  "shopName": "Alterations To Go",
+  "tagline": "Professional alterations and tailoring in Paulus Hook",
+  "phone": "(201) 451-8100",
+  "address": "209 Washington St, Jersey City, NJ 07302",
+  "hours": "Call or visit for hours",
+  "photoUrl": "/hero.jpg",
+  "services": [
+    {
+      "name": "Alterations",
+      "description": "Hems, take-ins, and fittings so clothes fit the way you want."
+    },
+    {
+      "name": "Repairs",
+      "description": "Zippers, seams, and everyday mending done on site."
+    },
+    {
+      "name": "Neighborhood location",
+      "description": "Call or stop by for a quote."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "alterations-to-go-jc",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
