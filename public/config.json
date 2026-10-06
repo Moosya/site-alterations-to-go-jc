@@ -4,7 +4,7 @@
   "phone": "(201) 451-8100",
   "address": "209 Washington St, Jersey City, NJ 07302",
   "hours": "Call or visit for hours",
-  "photoUrl": "/hero.jpg",
+  "photoUrl": "hero.jpg",
   "services": [
     {
       "name": "Alterations",
